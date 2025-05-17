@@ -1,1 +1,2 @@
 This is dummy file
+This file changed from Github to create the conflict
